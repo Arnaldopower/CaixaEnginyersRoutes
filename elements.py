@@ -8,6 +8,7 @@ class node():
         self.CP = CP
         self.comarca = comarca
         self.estanciaMin = estanciaMin
+        self.connections = {}
 
     def get_mun(self):
         return self.municipi
@@ -19,6 +20,10 @@ class node():
         return self.estanciaMin
     def get_coords(self):
         return CordinateGetter.get_coordinates(self.CP)
+    def set_connections(self, connections):
+        for s,t in connections:
+            if self.municipi in s:
+                self.connections[next(l for l in s if l != self.municipi)] = t
     def __str__(self):
         return self.municipi
 
