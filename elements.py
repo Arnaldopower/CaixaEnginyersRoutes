@@ -24,6 +24,7 @@ class node():
         for s,t in connections:
             if self.municipi in s:
                 self.connections[next(l for l in s if l != self.municipi)] = t
+        self.connections = dict(sorted(self.connections.items(), key=lambda item: item[1][0]))
     def __str__(self):
         return self.municipi
 

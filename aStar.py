@@ -10,8 +10,6 @@ def main():
         nodo = node(municipi,cp.zfill(5),comarca,temps)
         nodo.set_connections(edges[int(lot)][int(bloc)])
         dataDict[int(lot)][int(bloc)].append(nodo)
-        print(nodo.connections)
-        break
     
     
 
