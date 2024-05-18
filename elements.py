@@ -8,16 +8,16 @@ class node():
         self.bloc = bloc
         self.estanciaMin = estanciaMin
 
-    def get_mun(self):
+    def get_mun(self) -> int:
         return self.municipi 
-    def get_com(self):
+    def get_com(self) -> int:
         return self.comarca
-    def get_bloc(self):
+    def get_bloc(self) -> int:
         return self.bloc
-    def get_estanciaMin(self):
+    def get_estanciaMin(self) -> int:
         return self.estanciaMin
 
-def getDirections(origin: node, destiny: node):
+def getDirections(origin: node, destiny: node) -> tuple[int, int]:
     now = datetime.now()
     gmaps = googlemaps.Client(key='AIzaSyAoFEZk9cyUV2LPi-k89aQp8f8TGdl42n0')
     directions_result = gmaps.directions(origin.get_mun(),destiny.get_mun(),mode="driving",departure_time=now)
