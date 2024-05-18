@@ -1,0 +1,313 @@
+LOTE;BLOC;COMARCA;codINE;Municipi;Pob.;Estancia Minima
+2;1;Anoia;8008;Argen�ola;216;30
+2;1;Anoia;8021;Bellprat;74;30
+2;1;Anoia;8025;Bruc;2218;60
+2;1;Anoia;8028;Cabrera d'Anoia;1606;60
+2;1;Anoia;8036;Calonge de Segarra;195;30
+2;1;Anoia;8048;Carme;754;60
+2;1;Anoia;8060;Castellfollit de Riubreg�s;159;30
+2;1;Anoia;8063;Castellol�;636;60
+2;1;Anoia;8071;Copons;333;60
+2;1;Anoia;8103;Jorba;806;60
+2;1;Anoia;8104;Llacuna;942;60
+2;1;Anoia;8133;Montmaneu;166;30
+2;1;Anoia;8152;Orp�;159;30
+2;1;Anoia;8170;Prats de Rei;554;60
+2;1;Anoia;8176;Pujalt;204;30
+2;1;Anoia;8185;Rubi�;244;30
+2;1;Anoia;8228;Sant Mart� Sesgueioles;361;60
+2;1;Anoia;8189;Sant Pere Sallavinera;167;30
+2;1;Anoia;8257;Santa Maria de Miralles;138;30
+2;1;Anoia;8286;Torre de Claramunt;3966;60
+2;1;Anoia;8292;Vallbona d'Anoia;1387;60
+2;1;Anoia;8297;Veciana;182;30
+2;1;Conca Barb.;43046;Conesa;109;30
+2;1;Conca Barb.;43061;For�s;48;30
+2;1;Conca Barb.;43073;Llorac;96;30
+2;1;Conca Barb.;43101;Passanant i Belltall;170;30
+2;1;Conca Barb.;43105;Piles;224;30
+2;1;Conca Barb.;43130;Rocafort de Queralt;241;30
+2;1;Conca Barb.;43143;Savall� del Comtat;52;30
+2;1;Conca Barb.;43159;Vallfogona de Riucorb;89;30
+2;2;Alt Pened�s;8027;Cabanyes;999;60
+2;2;Alt Pened�s;8058;Castellet i la Gornal;2474;60
+2;2;Alt Pened�s;8085;Font-rub�;1446;60
+2;2;Alt Pened�s;8122;Mediona;2517;60
+2;2;Alt Pened�s;8146;Olesa de Bonesvalls;2016;60
+2;2;Alt Pened�s;8154;Pacs del Pened�s;935;60
+2;2;Alt Pened�s;8168;Pontons;507;60
+2;2;Alt Pened�s;8174;Puigd�lber;555;60
+2;2;Alt Pened�s;8206;Sant Cugat Sesgarrigues;1009;60
+2;2;Alt Pened�s;8222;Sant Lloren� d'Hortons;2503;60
+2;2;Alt Pened�s;8249;Santa Fe del Pened�s;370;60
+2;2;Alt Pened�s;8273;Subirats;3241;60
+2;2;Alt Pened�s;8287;Torrelavit;1457;60
+2;2;Alt Pened�s;8288;Torrelles de Foix;2557;60
+2;2;Alt Pened�s;8304;Vilob� del Pened�s;1.13;60
+2;2;Baix Pened�s;43002;Albinyana;2581;60
+2;2;Baix Pened�s;43030;Bonastre;742;60
+2;2;Baix Pened�s;43079;Maslloren�;547;60
+2;2;Baix Pened�s;43090;Montmell;1863;60
+2;2;Baix Pened�s;43140;Santa Oliva;3.56;60
+2;2;Garraf;8148;Olivella;4339;60
+2;2;Tarragon�s;43135;Salom�;543;60
+2;2;Tarragon�s;43164;Vespella de Gai�;496;60
+2;3;Alt Camp;43001;Aiguam�rcia;961;60
+2;3;Alt Camp;43010;Ali�;496;60
+2;3;Alt Camp;43034;Br�fim;687;60
+2;3;Alt Camp;43036;Cabra del Camp;1254;60
+2;3;Alt Camp;43059;Figuerola del Camp;332;60
+2;3;Alt Camp;43066;Garidells;196;30
+2;3;Alt Camp;43080;Mas�;285;60
+2;3;Alt Camp;43083;Mil�;189;30
+2;3;Alt Camp;43089;Montferri;419;60
+2;3;Alt Camp;43091;Mont-ral;173;30
+2;3;Alt Camp;43098;Nulles;541;60
+2;3;Alt Camp;43119;Puigpelat;1199;60
+2;3;Alt Camp;43120;Querol;572;60
+2;3;Alt Camp;43124;Riba;552;60
+2;3;Alt Camp;43132;Rodony�;506;60
+2;3;Alt Camp;43134;Rourell;395;60
+2;3;Alt Camp;43160;Vallmoll;1882;60
+2;3;Alt Camp;43165;Vilabella;711;60
+2;3;Conca Barb.;43029;Blancafort;394;60
+2;3;Conca Barb.;43107;Pira;489;60
+2;3;Conca Barb.;43141;Pontils;133;30
+2;3;Conca Barb.;43146;Senan;44;30
+2;3;Conca Barb.;43158;Vallclara;88;30
+2;3;Conca Barb.;43168;Vilanova de Prades;107;30
+2;3;Conca Barb.;43172;Vilaverd;453;60
+2;4;Baix Camp;43003;Albiol;528;60
+2;4;Baix Camp;43007;Aleixar;924;60
+2;4;Baix Camp;43009;Alforja;1928;60
+2;4;Baix Camp;43011;Almoster;1334;60
+2;4;Baix Camp;43015;Arbol�;122;30
+2;4;Baix Camp;43017;Argentera;126;30
+2;4;Baix Camp;43033;Botarell;1102;60
+2;4;Baix Camp;43039;Capafonts;121;30
+2;4;Baix Camp;43045;Colldejou;172;30
+2;4;Baix Camp;43053;Duesaig�es;232;30
+2;4;Baix Camp;43057;Febr�;39;30
+2;4;Baix Camp;43081;Maspujols;859;60
+2;4;Baix Camp;43118;Pratdip;693;60
+2;4;Baix Camp;43127;Riudecanyes;1279;60
+2;4;Baix Camp;43128;Riudecols;1198;60
+2;4;Baix Camp;43167;Vilanova d'Escornalbou;594;60
+2;4;Baix Camp;43169;Vilaplana;540;60
+2;4;Tarragon�s;43043;Catllar;4921;60
+2;4;Tarragon�s;43097;Nou de Gai�;636;60
+2;4;Tarragon�s;43103;Perafort;1292;60
+2;4;Tarragon�s;43109;Pobla de Mafumet;4052;60
+2;4;Tarragon�s;43122;Renau;152;30
+2;4;Tarragon�s;43126;Riera de Gai�;1752;60
+2;4;Tarragon�s;43144;Secuita;1765;60
+2;4;Tarragon�s;43166;Vilallonga del Camp;2398;60
+4;2;Alt Empord�;17003;Albany�;180;30
+4;1;Alt Empord�;17012;Avinyonet de Puigvent�s;1676;60
+4;2;Alt Empord�;17234;Biure;249;30
+4;2;Alt Empord�;17029;Boadella i les Escaules;258;60
+4;1;Alt Empord�;17026;Borrass�;776;60
+4;2;Alt Empord�;17031;Cabanelles;279;60
+4;1;Alt Empord�;17030;Cabanes;949;60
+4;2;Alt Empord�;17041;Cantallops;330;60
+4;2;Alt Empord�;17042;Capmany;672;60
+4;2;Alt Empord�;17051;Cistella;307;60
+4;1;Alt Empord�;17064;Espolla;408;60
+4;1;Alt Empord�;17005;Far d'Empord�;625;60
+4;1;Alt Empord�;17074;Forti�;778;60
+4;1;Alt Empord�;17075;Garrig�s;458;60
+4;2;Alt Empord�;17088;Llad�;827;60
+4;1;Alt Empord�;17100;Masarac;294;60
+4;1;Alt Empord�;17106;Mollet de Peralada;202;30
+4;2;Alt Empord�;17111;Navata;1465;60
+4;1;Alt Empord�;17115;Ordis;373;60
+4;1;Alt Empord�;17119;Palau de Santa Eul�lia;115;30
+4;1;Alt Empord�;17128;Pau;579;60
+4;1;Alt Empord�;17129;Pedret i Marz�;181;30
+4;2;Alt Empord�;17135;Pont de Molins;542;60
+4;1;Alt Empord�;17136;Pont�s;274;60
+4;1;Alt Empord�;17143;Rab�s;210;30
+4;1;Alt Empord�;17151;Riumors;244;30
+4;2;Alt Empord�;17171;Sant Lloren� de la Muga;267;60
+4;1;Alt Empord�;17175;Sant Miquel de Fluvi�;808;60
+4;1;Alt Empord�;17182;Santa Llogaia d'�lguema;379;60
+4;1;Alt Empord�;17188;Selva de Mar;220;30
+4;1;Alt Empord�;17052;Siurana;178;30
+4;2;Alt Empord�;17196;Terrades;345;60
+4;1;Alt Empord�;17198;Torroella de Fluvi�;741;60
+4;2;Alt Empord�;17014;Vajol;87;30
+4;3;Alt Empord�;17210;Ventall�;911;60
+4;3;Alt Empord�;17217;Viladamat;479;60
+4;1;Alt Empord�;17221;Vilafant;5562;60
+4;1;Alt Empord�;17225;Vilamacolum;386;60
+4;1;Alt Empord�;17226;Vilamalla;1166;60
+4;1;Alt Empord�;17227;Vilamaniscle;204;30
+4;2;Alt Empord�;17228;Vilanant;401;60
+4;1;Alt Empord�;17230;Vila-sacra;785;60
+4;1;Alt Empord�;17222;Vila�r;162;30
+4;3;Baix Empord�;17004;Albons;797;60
+4;3;Baix Empord�;17018;Bellcaire d'Empord�;713;60
+4;3;Baix Empord�;17055;Colomers;204;30
+4;3;Baix Empord�;17057;Cor��;1268;60
+4;3;Baix Empord�;17901;"Cru�lles, Monells i Sant Sadurn� de l'Heura";1338;60
+4;3;Baix Empord�;17068;Foix�;288;60
+4;3;Baix Empord�;17070;Fontanilles;163;30
+4;3;Baix Empord�;17902;Forallac;1765;60
+4;3;Baix Empord�;17076;Garrigoles;177;30
+4;3;Baix Empord�;17081;Gualta;439;60
+4;3;Baix Empord�;17085;Jafre;386;60
+4;3;Baix Empord�;17121;Palau-sator;327;60
+4;3;Baix Empord�;17126;Parlav�;415;60
+4;3;Baix Empord�;17130;Pera;438;60
+4;3;Baix Empord�;17144;Regenc�s;271;60
+4;3;Baix Empord�;17153;Rupi�;300;60
+4;3;Baix Empord�;17191;Serra de Dar�;233;30
+4;3;Baix Empord�;17195;Tallada d'Empord�;480;60
+4;3;Baix Empord�;17197;Torrent;166;30
+4;3;Baix Empord�;17204;Ull�;1195;60
+4;3;Baix Empord�;17205;Ullastret;250;60
+4;3;Baix Empord�;17203;Ultramort;224;30
+4;3;Baix Empord�;17209;Vall-llobrega;926;60
+4;3;Baix Empord�;17232;Vilopriu;223;30
+4;2;Garrotxa;17010;Argelaguer;439;60
+4;2;Garrotxa;17021;Beuda;202;30
+4;2;Garrotxa;17098;Mai� de Montcal;462;60
+4;2;Garrotxa;17105;Mieres;341;60
+4;2;Garrotxa;17109;Montagut i Oix;958;60
+4;2;Garrotxa;17149;Riudaura;511;60
+4;2;Garrotxa;17154;Sales de Llierca;169;30
+4;2;Garrotxa;17183;Sant Aniol de Finestres;363;60
+4;2;Garrotxa;17162;Sant Ferriol;256;60
+4;2;Garrotxa;17165;Sant Jaume de Llierca;842;60
+4;2;Garrotxa;17200;Tortell�;823;60
+4;2;Garrotxa;17208;Vall de Bianya;1345;60
+4;4;Giron�s;17002;Aiguaviva;780;60
+4;4;Giron�s;17038;Campllong;535;60
+4;4;Giron�s;17040;Canet d'Adri;750;60
+4;4;Giron�s;17050;Cervi� de Ter;999;60
+4;4;Giron�s;17087;Jui�;334;60
+4;4;Giron�s;17090;Llambilles;731;60
+4;4;Giron�s;17097;Madremanya;302;60
+4;4;Giron�s;17157;Sant Andreu Salou;162;30
+4;4;Giron�s;17168;Sant Joan de Mollet;515;60
+4;4;Giron�s;17172;Sant Mart� de Ll�mena;679;60
+4;4;Giron�s;17173;Sant Mart� Vell;261;60
+4;4;Giron�s;17216;Viladasens;216;30
+4;4;Pla Estany;17035;Cam�s;715;60
+4;4;Pla Estany;17058;Crespi�;276;60
+4;4;Pla Estany;17065;Esponell�;489;60
+4;4;Pla Estany;17071;Fontcoberta;1466;60
+4;4;Pla Estany;17123;Palol de Revardit;457;60
+4;4;Pla Estany;17174;"Sant Miquel de Campmajor";239;30
+4;4;Pla Estany;17218;Vilademuls;840;60
+4;4;Selva;17028;Brunyola i Sant Mart� Sapresa;388;60
+4;4;Selva;8082;Fogars de la Selva;1564;60
+4;4;Selva;17101;Massanes;825;60
+4;4;Selva;17116;Osor;423;60
+4;4;Selva;17159;Sant Feliu de Buixalleu;839;60
+4;4;Selva;17194;Susqueda;96;30
+LOTE;BLOC;COMARCA;codINE;Municipi;Pob.;Estancia Minima
+5;1;Bages;8242;Marganell;282;60
+5;1;Baix Llobreg.t;8066;Castellv� de Rosanes;2096;60
+5;1;Baix Llobreg.;8069;Collbat�;4726;60
+5;1;Vall�s Occ.;8179;Rellinars;915;60
+5;1;Vall�s Occ.;8290;Ullastrell;2139;60
+5;1;Maresme;8153;�rrius;793;60
+5;1;Vall�s Ori.;8256;Santa Maria de Martorelles;889;60
+5;1;Vall�s Ori.;8294;Vallgorguina;3144;60
+5;1;Vall�s Ori.;8306;Vilalba Sasserra;748;60
+5;1;Vall�s Ori.;8039;Campins;557;60
+5;1;Vall�s Ori.;8042;C�noves i Samal�s;3289;60
+5;1;Vall�s Ori.;8081;Fogars de Montcl�s;493;60
+5;1;Vall�s Ori.;8097;Gualba;1.61;60
+5;1;Vall�s Ori.;8234;Sant Pere de Vilamajor;4815;60
+5;1;Bages;8059;Castellfollit del Boix;460;60
+5;1;Bages;8061;Castellgal�;2236;60
+5;1;Bages;8139;Mura;232;30
+5;1;Bages;8277;Talamanca;219;30
+5;1;Vall�s Occ.;8223;Sant Lloren� Savall;2524;60
+5;1;Vall�s Occ.;8087;Gallifa;186;30
+5;1;Vall�s Ori.;8276;Tagamanent;340;60
+5;1;Vall�s Ori.;8134;Figar�-Montmany;1108;60
+5;1;Vall�s Ori.;8137;Montseny;370;60
+5;1;Vall�s Ori.;8207;Sant Esteve de Palautordera;3043;60
+5;2;Bages;8002;Aguilar de Segarra;287;60
+5;2;Bages;8084;Fonollosa;1546;60
+5;2;Bages;8178;Rajadell;545;60
+5;2;Bages;8062;Castellnou de Bages;1431;60
+5;2;Bages;8229;Sant Mateu de Bages;628;60
+5;2;Moian�s;8095;Granera;80;30
+5;2;Moian�s;8128;Monistrol de Calders;742;60
+5;2;Moian�s;8239;Sant Quirze Safaja;672;60
+5;2;Moian�s;8034;Calders;1101;60
+5;2;Moian�s;8055;Castellcir;778;60
+5;2;Moian�s;8070;Collsuspina;398;60
+5;2;Moian�s;8079;Estany;391;60
+5;2;Bages;8212;Sant Feliu Sasserra;611;60
+5;2;Bergued�;8308;Viver i Serrateix;166;30
+5;2;Bergued�;8188;Sag�s;157;30
+5;2;Bergued�;8255;Santa Maria de Merl�s;184;30
+5;2;Llu�an�s;8149;Olost;1206;60
+5;2;Llu�an�s;8151;Orist�;573;60
+5;2;Llu�an�s;8225;Sant Mart� d'Albars;119;30
+5;2;Llu�an�s;8271;Sobremunt;83;30
+5;2;Bergued�;8144;Olvan;876;60
+5;2;Llu�an�s;8109;Llu��;279;60
+5;2;Llu�an�s;8160;Perafita;418;60
+5;2;Llu�an�s;8004;Alpens;281;60
+5;3;Osona;8111;Malla;272;60
+5;3;Osona;8129;Muntanyola;700;60
+5;3;Osona;8083;Folgueroles;2254;60
+5;3;Osona;8246;Santa Eug�nia de Berga;2256;60
+5;3;Osona;8247;Santa Eul�lia de Riuprimer;1401;60
+5;3;Osona;8303;Vilanova de Sau;320;60
+5;3;Osona;8224;Sant Mart� de Centelles;1232;60
+5;3;Osona;8100;Gurb;2702;60
+5;3;Osona;8116;Masies de Roda;733;60
+5;3;Osona;8243;Santa Cec�lia de Voltreg�;185;30
+5;3;Osona;8280;Tavertet;116;30
+5;3;Osona;8901;Rupit i Pruit;279;60
+5;3;Osona;8199;Sant Bartomeu del Grau;924;60
+5;3;Osona;8117;Masies de Voltreg�;3133;60
+5;3;Osona;8150;Or�s;347;60
+5;3;Osona;8201;Sant Boi de Llu�an�s;575;60
+5;3;Osona;8253;Santa Maria de Besora;159;30
+5;3;Osona;8265;Sant Vicen� de Torell�;2077;60
+5;3;Osona;8272;Sora;219;30
+5;3;Osona;17212;Vidr�;181;30
+5;3;Osona;8131;Montesquiu;1059;60
+5;3;Osona;8195;Sant Agust� de Llu�an�s;100;30
+5;3;Osona;8275;Tav�rnoles;329;60
+5;3;Osona;8241;Sant Sadurn� d'Osormort;90;30
+5;3;Osona;17063;Espinelves;248;30
+5;3;Osona;8026;Brull;278;60
+5;4;Bergued�;8078;Espunyola;265;60
+5;4;Bergued�;8130;Montclar;136;30
+5;4;Bergued�;8045;Capolat;89;30
+5;4;Bergued�;8050;Castellar del Riu;175;30
+5;4;Bergued�;8080;F�gols;45;30
+5;4;Bergued�;8142;Nou de Bergued�;179;30
+5;4;Bergued�;8177;Quar;47;30
+5;4;Bergued�;8299;Vilada;439;60
+5;4;Ripoll�s;17096;Llosses;205;30
+5;4;Ripoll�s;17170;Vallfogona de Ripoll�s;222;30
+5;4;Bergued�;8024;Borred�;448;60
+5;4;Bergued�;8057;Castell de l'Areny;69;30
+5;4;Bergued�;8216;Sant Jaume de Frontany�;31;30
+5;4;Bergued�;8293;Vallcebre;268;60
+5;4;Bergued�;8903;Sant Juli� de Cerdanyola;241;30
+5;4;Bergued�;8093;Gisclareny;28;30
+5;4;Bergued�;8190;Saldes;298;60
+5;4;Bergued�;25100;G�sol;233;30
+5;4;Bergued�;8052;Castellar de n'Hug;176;30
+5;4;Ripoll�s;17037;Campelles;162;30
+5;4;Ripoll�s;17080;Gombr�n;200;30
+5;4;Ripoll�s;17134;Planoles;307;60
+5;4;Ripoll�s;17201;Toses;185;30
+5;4;Ripoll�s;17192;Setcases;200;30
+5;4;Ripoll�s;17091;Llanars;533;60
+5;4;Ripoll�s;17107;Moll�;365;60
+5;4;Ripoll�s;17112;Ogassa;222;30
+5;4;Ripoll�s;17224;Vilallonga de Ter;410;60
+5;4;Ripoll�s;17125;Pardines;165;30
+5;4;Ripoll�s;17043;Queralbs;191;30
