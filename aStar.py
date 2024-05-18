@@ -1,5 +1,6 @@
 from elements import node, getDirections
 from loader import read_tsv
+from heapq import heapify, heappush, heappop 
 
 def main():
     data = read_tsv("input.tsv")
@@ -22,6 +23,22 @@ def main():
                             lol = getDirections(f"{coordsO[0]},{coordsO[1]}", f"{coordsD[0]},{coordsD[1]}")
                             print(f"(({origin},{destiny}),{lol})")
                             f.write(f"(({origin},{destiny}),{lol})\n")
+
+    for i in range(0,3):
+        for j in range(0,4):
+            
+            for z in range(0,5):
+
+
+
+
+def StarAlgorithm(node_inicial: node, directori):
+    open = []
+    close = []
+    heapq.heapify(open)
+
+
+
 
 if __name__ == '__main__': 
     main()
