@@ -25,7 +25,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "arnau__branch",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -45,8 +45,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716023443609</updated>
-      <workItem from="1716023455995" duration="190000" />
+      <workItem from="1716023455995" duration="496000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
