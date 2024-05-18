@@ -22,3 +22,4 @@ def getDirections(origin: node, destiny: node):
     gmaps = googlemaps.Client(key='AIzaSyAoFEZk9cyUV2LPi-k89aQp8f8TGdl42n0')
     directions_result = gmaps.directions(origin.get_mun(),destiny.get_mun(),mode="driving",departure_time=now)
     return (directions_result[0]["legs"][0]["duration_in_traffic"]["value"], directions_result[0]["legs"][0]["distance"]["value"]) #value -> seconds / distance -> meters
+
