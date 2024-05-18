@@ -1,14 +1,7 @@
-((Argençola,Bellprat),(1053, 15533))
-((Argençola,El Bruc),(1591, 36167))
-((Argençola,Cabrera d'Anoia),(2057, 38432))
-((Argençola,Calonge de Segarra),(1868, 36509))
-((Argençola,Carme),(1852, 35457))
-((Argençola,Castellfollit de Riubregós),(1912, 38568))
-((Argençola,Castellolí),(1240, 28095))
-((Argençola,Copons),(1189, 18486))
-((Argençola,Jorba),(829, 13553))
-((Argençola,Llacuna),(2024, 30453))
-((Argençola,Montmaneu),(644, 7547))
+Lot 2
+
+Bloc 1
+
 ((Argençola,Bellprat),(1222, 16858))
 ((Argençola,El Bruc),(1715, 37120))
 ((Argençola,Cabrera d'Anoia),(1822, 39886))
@@ -444,6 +437,9 @@
 ((Rocafort de Queralt,Savallà del Comtat),(840, 9486))
 ((Rocafort de Queralt,Vallfogona de Riucorb),(1472, 15418))
 ((Savallà del Comtat,Vallfogona de Riucorb),(792, 7000))
+
+Bloc 2
+
 ((Cabanyes,Castellet i la Gornal),(1273, 20751))
 ((Cabanyes,Font-rubí),(748, 10471))
 ((Cabanyes,Mediona),(1452, 24072))
@@ -697,6 +693,9 @@
 ((Olivella,Salomó),(2870, 53381))
 ((Olivella,Vespella de Gaià),(2653, 58255))
 ((Salomó,Vespella de Gaià),(699, 6013))
+
+Bloc 3
+
 ((Aiguamúrcia,Alió),(642, 9485))
 ((Aiguamúrcia,Bràfim),(606, 8293))
 ((Aiguamúrcia,Cabra del Camp),(1118, 17022))
@@ -997,6 +996,9 @@
 ((Vallclara,Vilanova de Prades),(467, 5927))
 ((Vallclara,Vilaverd),(1276, 24711))
 ((Vilanova de Prades,Vilaverd),(1617, 30158))
+
+Bloc 4
+
 ((Albiol,Aleixar),(1345, 14080))
 ((Albiol,Alforja),(1890, 19162))
 ((Albiol,Almoster),(1480, 18266))
@@ -1297,6 +1299,14 @@
 ((Riera de Gaià,Secuita),(901, 10929))
 ((Riera de Gaià,Vilallonga del Camp),(1260, 28449))
 ((Secuita,Vilallonga del Camp),(939, 11472))
+
+
+Lot 4
+
+
+Bloc 1
+
+
 ((Avinyonet de Puigventós,Borrassà),(552, 5967))
 ((Avinyonet de Puigventós,Cabanes),(1141, 12206))
 ((Avinyonet de Puigventós,Espolla),(1686, 23162))
@@ -1648,6 +1658,9 @@
 ((Vilamaniscle,Vila-sacra),(1227, 16593))
 ((Vilamaniscle,Vilaür),(1931, 34717))
 ((Vila-sacra,Vilaür),(1225, 19633))
+
+Bloc 2
+
 ((Albanyà,Biure),(1575, 19746))
 ((Albanyà,Boadella i les Escaules),(1267, 15919))
 ((Albanyà,Cabanelles),(2236, 34872))
@@ -1973,6 +1986,9 @@
 ((Sant Jaume de Llierca,Tortellà),(483, 5681))
 ((Sant Jaume de Llierca,Vall de Bianya),(940, 17506))
 ((Tortellà,Vall de Bianya),(1118, 21030))
+
+Bloc 3
+
 ((Ventalló,Viladamat),(457, 6126))
 ((Ventalló,Albons),(630, 9071))
 ((Ventalló,Bellcaire d'Empordà),(848, 11951))
@@ -2298,6 +2314,11 @@
 ((Ultramort,Vall-llobrega),(1685, 29772))
 ((Ultramort,Vilopriu),(773, 12016))
 ((Vall-llobrega,Vilopriu),(2303, 40989))
+
+
+Bloc 4
+
+
 ((Aiguaviva,Campllong),(781, 11281))
 ((Aiguaviva,Canet d'Adri),(1423, 27584))
 ((Aiguaviva,Cervià de Ter),(1602, 33946))
@@ -2598,6 +2619,13 @@
 ((Osor,Sant Feliu de Buixalleu),(2585, 55462))
 ((Osor,Susqueda),(2103, 25582))
 ((Sant Feliu de Buixalleu,Susqueda),(3370, 63967))
+
+
+Lot 5
+
+Bloc 1
+
+
 ((Marganell,Castellví de Rosanes),(2066, 35683))
 ((Marganell,Collbató),(1421, 22332))
 ((Marganell,Rellinars),(1681, 18905))
@@ -2874,6 +2902,9 @@
 ((Figaró-Montmany,Montseny),(2903, 37069))
 ((Figaró-Montmany,Sant Esteve de Palautordera),(2264, 41690))
 ((Montseny,Sant Esteve de Palautordera),(816, 9606))
+
+Bloc 2
+
 ((Aguilar de Segarra,Fonollosa),(2169, 42442))
 ((Aguilar de Segarra,Rajadell),(1722, 33327))
 ((Aguilar de Segarra,Castellnou de Bages),(3005, 57127))
@@ -3150,6 +3181,11 @@
 ((Lluçà,Perafita),(911, 6104))
 ((Lluçà,Alpens),(1313, 9555))
 ((Perafita,Alpens),(975, 13184))
+
+
+Bloc 3
+
+
 ((Malla,Muntanyola),(822, 11020))
 ((Malla,Folgueroles),(816, 17547))
 ((Malla,Santa Eugènia de Berga),(500, 4476))
@@ -3475,6 +3511,11 @@
 ((Sant Sadurní d'Osormort,Espinelves),(715, 6946))
 ((Sant Sadurní d'Osormort,Brull),(1522, 20563))
 ((Espinelves,Brull),(1682, 24274))
+
+
+Bloc 4
+
+
 ((Espunyola,Montclar),(480, 6367))
 ((Espunyola,Capolat),(1006, 12841))
 ((Espunyola,Castellar del Riu),(1492, 18639))
