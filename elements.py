@@ -30,7 +30,7 @@ class node():
 
 def getDirections(origin: node, destiny: node) -> tuple[int, int]:
     now = datetime.now()
-    gmaps = googlemaps.Client(key='AIzaSyDrS4cmFMnWHhamFFudv6VlBJWcmjLvGCk')
+    gmaps = googlemaps.Client(key='')
     directions_result = gmaps.directions(origin,destiny,mode="driving",departure_time=now)
     return (directions_result[0]["legs"][0]["duration_in_traffic"]["value"], directions_result[0]["legs"][0]["distance"]["value"]) #value -> seconds / distance -> meters
 
